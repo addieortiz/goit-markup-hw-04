@@ -393,8 +393,6 @@ body {
   margin: 0 auto;
 
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
 }
 
 .page-footer.bg-footer {
